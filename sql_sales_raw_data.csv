@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,region,city,product,category,quantity,unit_price,discount
+ORD0001,2025-11-09,CUST005,West,Mumbai,Monitor,Electronics,1.0,220,0.0
+ORD0002,2025-08-30,CUST075,East,Kolkata,Headphones,Accessories,7.0,80,0.0
+ORD0003,2025-08-22,CUST119,South,Hyderabad,Printer,Office Equipment,1.0,180,0.0
+ORD0004,2025-05-29,CUST120,West,Mumbai,Headphones,Accessories,1.0,80,0.0
+ORD0005,2025-02-20,CUST057,East,Kolkata,Printer,Office Equipment,3.0,180,0.1
+ORD0006,2025-10-19,CUST113,North,Delhi,Printer,Office Equipment,4.0,180,0.05
+ORD0007,2025-09-29,CUST007,East,Kolkata,Laptop,Electronics,3.0,650,0.0
+ORD0008,2025-05-14,CUST070,South,Chennai,Laptop,Electronics,7.0,650,0.1
+ORD0009,2025-10-14,CUST077,East,Patna,Headphones,Accessories,2.0,80,0.1
+ORD0010,2025-06-10,CUST113,East,Bhubaneswar,Keyboard,Accessories,6.0,45,0.1
+ORD0011,2025-02-03,CUST009,West,Ahmedabad,Monitor,Electronics,3.0,220,0.1
+ORD0012,2025-05-07,CUST108,South,Bengaluru,Laptop,Electronics,2.0,650,0.0
+ORD0013,2025-01-19,CUST040,West,Pune,Printer,Office Equipment,7.0,180,0.05
+ORD0014,2025-12-19,CUST058,East,Bhubaneswar,Keyboard,Accessories,1.0,45,0.0
+ORD0015,2025-01-28,CUST034,South, Mumbai ,Mouse,Accessories,1.0,25,0.05
+ORD0016,2025-12-12,CUST082,South,Hyderabad,Keyboard,Accessories,4.0,45,0.0
+ORD0017,2025-02-03,CUST012,South,Chennai,Monitor,Electronics,7.0,220,0.0
+ORD0018,2025-05-06,CUST082,North,Chandigarh,Printer,Office Equipment,6.0,180,0.0
+ORD0019,2025-04-05,CUST039,West,Ahmedabad,Headphones,Accessories,5.0,80,0.1
+ORD0020,2025-08-09,CUST081,South,Chennai,Monitor,Electronics,6.0,220,0.15
+ORD0021,2025-11-26,CUST069,East,Kolkata,Mouse,Accessories,1.0,25,0.0
+ORD0022,2025-06-08,CUST079,North,Chandigarh,Laptop,Electronics,7.0,650,0.1
+ORD0023,2025-07-01,CUST001,North,Chandigarh,Keyboard,Accessories,1.0,45,0.0
+ORD0024,2025-12-31,CUST011,East,Bhubaneswar,Mouse,Accessories,4.0,25,0.0
+ORD0025,2025-08-25,CUST036,North,Jaipur,Printer,Office Equipment,3.0,180,0.0
+ORD0026,2025-08-06,CUST019,West,Ahmedabad,Laptop,Electronics,7.0,650,0.05
+ORD0027,2025-12-24,CUST013,East,Bhubaneswar,Mouse,Accessories,6.0,25,0.05
+ORD0028,2025-04-11,CUST004,South,Hyderabad,Keyboard,Accessories,6.0,45,0.05
+ORD0029,2025-06-17,CUST012,East,Kolkata,Mouse,Accessories,3.0,25,0.05
+ORD0030,2025-08-07,CUST086,South,Bengaluru,Mouse,Accessories,6.0,25,0.0
+ORD0031,2025-01-03,CUST080,West,Mumbai,Keyboard,Accessories,4.0,45,0.05
+ORD0032,2025-12-10,CUST115,West,Ahmedabad,Monitor,Electronics,1.0,220,0.1
+ORD0033,2025-05-19,CUST104,South,Bengaluru,Monitor,Electronics,7.0,220,0.0
+ORD0034,2025-11-07,CUST087,South,Chennai,Monitor,Electronics,3.0,220,0.0
+ORD0035,2025-07-31,CUST109,West,Pune,Printer,Office Equipment,4.0,180,0.0
+ORD0036,2025-03-04,CUST026,North,Jaipur,Monitor,Electronics,1.0,220,0.05
+ORD0037,2025-12-11,CUST076,East,Bhubaneswar,Keyboard,Accessories,7.0,45,0.1
+ORD0038,2025-10-17,CUST099,East,Bhubaneswar,Laptop,Electronics,2.0,650,0.1
+ORD0039,2025-05-29,CUST078, north ,Mumbai,Keyboard,Accessories,4.0,45,0.0
+ORD0040,2025-08-30,CUST038,North,Delhi,Laptop,Electronics,5.0,650,0.1
+ORD0041,2025-03-15,CUST048,South,Chennai,Mouse,Accessories,5.0,25,0.0
+ORD0042,2025-09-11,CUST031,South,Hyderabad,Printer,Office Equipment,4.0,180,0.1
+ORD0043,2025-11-29,CUST088,South,Hyderabad,Monitor,Electronics,6.0,220,0.0
+ORD0044,2025-07-05,CUST030,North,Chandigarh,Keyboard,Accessories,3.0,45,0.1
+ORD0045,2025-08-28,CUST024,East,Bhubaneswar,Headphones,Accessories,3.0,80,0.0
+ORD0046,2025-05-14,CUST081,West,Pune,Printer,Office Equipment,1.0,180,0.15
+ORD0047,2025-07-02,CUST109,East,Patna,Monitor,Electronics,4.0,220,0.0
+ORD0048,2025-08-18,CUST025,East,Kolkata,Headphones,Accessories,6.0,80,0.0
+ORD0049,2025-04-16,CUST054,South,Bengaluru,Laptop,Electronics,2.0,650,0.0
+ORD0050,2025-09-09,CUST114,South,Bengaluru,Headphones,Accessories,3.0,80,0.0
+ORD0051,2025-04-05,CUST116,West,Ahmedabad,Keyboard,Accessories,1.0,45,0.0
+ORD0052,2025-12-17,CUST089,West,Pune,Headphones,Accessories,2.0,80,0.15
+ORD0053,2025-10-08,CUST027,North,Delhi,Keyboard,Accessories,6.0,45,0.05
+ORD0054,2025-09-10,CUST106,South,Bengaluru,Keyboard,Accessories,2.0,45,0.15
+ORD0055,2025-10-16,CUST063,South,Hyderabad,Keyboard,Accessories,2.0,45,0.15
+ORD0056,2025-03-14,CUST037,East,Patna,Headphones,Accessories,5.0,80,0.05
+ORD0057,2025-01-12,CUST111,East,Bhubaneswar,Printer,Office Equipment,6.0,180,0.0
+ORD0058,2025-12-26,CUST106,West,Ahmedabad,Mouse,Accessories,3.0,25,0.0
+ORD0059,2025-01-06,CUST056,East,Patna,Printer,Office Equipment,1.0,180,0.1
+ORD0060,2025-01-08,CUST118,South,Hyderabad,Laptop,Electronics,5.0,650,0.05
+ORD0061,2025-02-02,CUST086,North,Delhi,Headphones,Accessories,2.0,80,0.05
+ORD0062,2025-07-27,CUST066,East,Patna,Keyboard,Accessories,4.0,45,0.05
+ORD0063,2025-01-25,CUST103,West,Mumbai,Laptop,Electronics,4.0,650,0.0
+ORD0064,2025-11-22,CUST065,West,Ahmedabad,Printer,Office Equipment,7.0,180,0.1
+ORD0065,2025-07-26,CUST010,South,Bengaluru,Keyboard,Accessories,3.0,45,0.05
+ORD0066,2025-12-28,CUST042,South,Chennai,Mouse,Accessories,6.0,25,0.05
+ORD0067,2025-06-14,CUST116,East,Kolkata,Monitor,Electronics,4.0,220,0.1
+ORD0068,2025-02-18,CUST086,West,Pune,Laptop,Electronics,5.0,650,0.05
+ORD0069,2025-10-06,CUST030,South,Hyderabad,Monitor,Electronics,2.0,220,0.05
+ORD0070,2025-04-09,CUST026,East,Patna,Keyboard,Accessories,5.0,45,0.1
+ORD0071,2025-06-08,CUST014,North,Delhi,Mouse,Accessories,6.0,25,0.0
+ORD0072,2025-10-30,CUST115,North,Chandigarh,Mouse,Accessories,7.0,25,0.0
+ORD0073,2025-03-30,CUST083,South,Chennai,Laptop,Electronics,6.0,650,0.0
+ORD0074,2025-04-09,CUST035,South,Bengaluru,Printer,Office Equipment,1.0,180,0.0
+ORD0075,2025-04-28,CUST058,East,Bhubaneswar,Monitor,Electronics,5.0,220,0.05
+ORD0076,2025-01-09,CUST053,West,Pune,Headphones,Accessories,5.0,80,0.05
+ORD0077,2025-02-26,CUST095,North,Jaipur,Printer,Office Equipment,5.0,180,0.0
+ORD0078,2025-11-13,CUST094,South,Hyderabad, mouse ,Electronics,2.0,220,0.0
+ORD0079,2025-05-08,CUST049,West,Pune,Keyboard,Accessories,4.0,45,0.05
+ORD0080,2025-04-28,CUST087,West,Pune,Monitor,Electronics,5.0,220,0.1
+ORD0081,2025-12-08,CUST045,North,Chandigarh,Laptop,Electronics,5.0,650,0.0
+ORD0082,2025-11-12,CUST116,North,Delhi,Mouse,Accessories,7.0,25,0.1
+ORD0083,2025-12-31,CUST042,West,Pune,Keyboard,Accessories,4.0,45,0.0
+ORD0084,2025-11-28,CUST033,West,Pune,Headphones,Accessories,4.0,80,0.05
+ORD0085,2025-08-03,CUST068,South,Chennai,Mouse,Accessories,2.0,25,0.0
+ORD0086,2025-04-17,CUST080,South,Hyderabad,Headphones,Accessories,4.0,80,0.0
+ORD0087,2025-02-10,CUST108,South,Hyderabad,Monitor,Electronics,1.0,220,0.0
+ORD0088,2025-06-09,CUST007,South,Hyderabad,Mouse,Accessories,6.0,25,0.05
+ORD0089,2025-11-03,CUST051,South,Bengaluru,Mouse,Accessories,6.0,25,0.0
+ORD0090,2025-07-26,CUST036,East,Kolkata,Printer,Office Equipment,2.0,180,0.15
+ORD0091,2025-07-11,CUST065,South,Hyderabad,Printer,Office Equipment,1.0,180,0.05
+ORD0092,2025-03-22,CUST056,East,Patna,Printer,Office Equipment,1.0,180,0.05
+ORD0093,2025-02-25,CUST041,North,Jaipur,Printer,Office Equipment,6.0,180,0.05
+ORD0094,2025-06-08,CUST097,North,Chandigarh,Printer,Office Equipment,3.0,180,0.05
+ORD0095,2025-03-25,CUST051,West,Ahmedabad,Keyboard,Accessories,3.0,45,0.1
+ORD0096,2025-12-22,CUST016,South,Bengaluru,Headphones,Accessories,2.0,80,0.05
+ORD0097,2025-11-14,CUST007,South,Chennai,Laptop,Electronics,3.0,650,0.0
+ORD0098,2025-12-06,CUST097,East,Patna,Monitor,Electronics,1.0,220,0.05
+ORD0099,2025-07-20,CUST015,North,Chandigarh,Headphones,Accessories,2.0,80,0.0
+ORD0100,2025-12-06,CUST053,North,Delhi,Monitor,Electronics,1.0,220,0.0
+ORD0101,2025-02-02,CUST043,East,Patna,Mouse,Accessories,3.0,25,0.0
+ORD0102,2025-10-17,CUST058,East,Bhubaneswar,Mouse,Accessories,4.0,25,0.05
+ORD0103,2025-04-11,CUST041,North,Delhi,Printer,Office Equipment,2.0,180,0.0
+ORD0104,2025-05-19,CUST061,East,Kolkata,Mouse,Accessories,5.0,25,0.05
+ORD0105,2025-03-11,CUST116,North,Delhi,Laptop,Electronics,5.0,650,0.1
+ORD0106,2025-06-06,CUST012,South,Bengaluru,Laptop,Electronics,3.0,650,0.0
+ORD0107,2025-11-16,CUST074,East,Kolkata,Laptop,Electronics,5.0,650,0.0
+ORD0108,2025-05-19,CUST017,North,Jaipur,Printer,Office Equipment,1.0,180,0.0
+ORD0109,2025-11-26,CUST030,East,Bhubaneswar,Headphones,Accessories,2.0,80,0.05
+ORD0110,2025-08-28,CUST039,South,Chennai,Monitor,Electronics,3.0,220,0.0
+ORD0111,2025-08-25,CUST028,South,Bengaluru,Keyboard,Accessories,3.0,45,0.0
+ORD0112,2025-08-17,CUST079,East,Patna,Monitor,Electronics,5.0,220,0.0
+ORD0113,2025-10-02,CUST004,South,Hyderabad,Monitor,Electronics,1.0,220,0.1
+ORD0114,2025-10-09,CUST105,West,Pune,Keyboard,Accessories,4.0,45,0.1
+ORD0115,2025-11-23,CUST044,North,Jaipur,Keyboard,Accessories,2.0,45,0.1
+ORD0116,2025-10-12,CUST100,South,Hyderabad,Keyboard,Accessories,1.0,45,0.05
+ORD0117,2025-08-14,CUST093,West,Ahmedabad,Mouse,Accessories,4.0,25,0.0
+ORD0118,2025-03-18,CUST038,West,Ahmedabad,Laptop,Electronics,7.0,650,0.1
+ORD0119,2025-07-10,CUST043,West,Pune,Monitor,Electronics,7.0,220,0.1
+ORD0120,2025-09-13,CUST008,South,Bengaluru,Mouse,Accessories,7.0,25,0.05
+ORD0121,2025-05-08,CUST021,South,Bengaluru,Keyboard,Accessories,3.0,45,0.1
+ORD0122,2025-11-05,CUST008,West,Pune,Laptop,Electronics,,650,0.05
+ORD0123,2025-12-20,CUST078,East,Bhubaneswar,Keyboard,Accessories,6.0,45,0.0
+ORD0124,2025-03-22,CUST078,South,Hyderabad,Mouse,Accessories,2.0,25,0.05
+ORD0125,2025-04-27,CUST049,West,Mumbai,Keyboard,Accessories,7.0,45,0.1
+ORD0126,2025-08-06,CUST087,West,Pune,Headphones,Accessories,1.0,80,0.05
+ORD0127,2025-01-06,CUST080,East,Kolkata,Laptop,Electronics,6.0,650,0.0
+ORD0128,2025-01-27,CUST085,West,Mumbai,Monitor,Electronics,6.0,220,0.05
+ORD0129,2025-06-13,CUST053,South,Bengaluru,Mouse,Accessories,4.0,25,0.0
+ORD0130,2025-03-25,CUST064,North,Jaipur,Mouse,Accessories,7.0,25,0.1
+ORD0131,2025-11-26,CUST002,East,Bhubaneswar,Printer,Office Equipment,4.0,180,0.0
+ORD0132,2025-12-02,CUST115,East,Kolkata,Laptop,Electronics,5.0,650,0.1
+ORD0133,2025-06-09,CUST004,West,Mumbai,Laptop,Electronics,1.0,650,0.0
+ORD0134,2025-09-26,CUST025,West,Ahmedabad,Printer,Office Equipment,1.0,180,0.05
+ORD0135,2025-12-01,CUST024,South,Bengaluru,Headphones,Accessories,5.0,80,0.0
+ORD0136,2025-05-20,CUST055,South,Bengaluru,Mouse,Accessories,6.0,25,0.1
+ORD0137,2025-12-27,CUST057,North,Chandigarh,Keyboard,Accessories,4.0,45,0.1
+ORD0138,2025-11-17,CUST051,West,Pune,Keyboard,Accessories,4.0,45,0.0
+ORD0139,2025-01-18,CUST094,North,Delhi,Headphones,Accessories,6.0,80,0.1
+ORD0140,2025-07-31,CUST050,North,Chandigarh,Printer,Office Equipment,1.0,180,0.1
+ORD0141,2025-01-23,CUST046,South,Hyderabad,Monitor,Electronics,1.0,220,0.05
+ORD0142,2025-09-06,CUST056,East,Patna,Printer,Office Equipment,2.0,180,0.05
+ORD0143,2025-03-19,CUST056,West,Mumbai,Printer,Office Equipment,6.0,180,0.15
+ORD0144,2025-11-30,CUST049,North,Chandigarh,Monitor,Electronics,4.0,220,0.0
+ORD0145,2025-10-26,CUST115,South,Chennai,Mouse,Accessories,1.0,25,0.05
+ORD0146,2025-05-09,CUST001,South,Hyderabad,Monitor,Electronics,6.0,220,0.15
+ORD0147,2025-03-10,CUST062,West,Ahmedabad,Monitor,Electronics,7.0,220,0.1
+ORD0148,2025-06-20,CUST094,East,Kolkata,Headphones,Accessories,2.0,80,0.0
+ORD0149,2025-09-29,CUST002,East,Kolkata,Mouse,Accessories,2.0,25,0.05
+ORD0150,2025-11-14,CUST022,East,Patna,Headphones,Accessories,3.0,80,0.0
+ORD0151,2025-04-11,CUST067,South,Bengaluru,Printer,Office Equipment,6.0,180,0.15
+ORD0152,2025-11-19,CUST052,West,Mumbai,Headphones,Accessories,2.0,80,0.15
+ORD0153,2025-08-29,CUST110,East,Kolkata,Headphones,Accessories,6.0,80,0.05
+ORD0154,2025-02-25,CUST014,South,Hyderabad,Monitor,Electronics,2.0,220,0.0
+ORD0155,2025-03-25,CUST078,South,Bengaluru,Monitor,Electronics,6.0,220,0.05
+ORD0156,2025-09-01,CUST105,South,Hyderabad,Mouse,Accessories,3.0,25,0.1
+ORD0157,2025-11-19,CUST070,East,Bhubaneswar,Headphones,Accessories,4.0,80,0.05
+ORD0158,2025-05-12,CUST089,South,Hyderabad,Monitor,Electronics,7.0,220,0.0
+ORD0159,2025-09-25,CUST053,West,Pune,Mouse,Accessories,7.0,25,0.0
+ORD0160,2025-06-09,CUST075,West,Pune,Printer,Office Equipment,6.0,180,0.05
+ORD0161,2025-09-28,CUST018,South,Bengaluru,Headphones,Accessories,6.0,80,0.1
+ORD0162,2025-10-01,CUST006,South,Hyderabad,Mouse,Accessories,2.0,25,0.1
+ORD0163,2025-09-05,CUST015,South,Chennai,Laptop,Electronics,4.0,650,0.05
+ORD0164,2025-01-03,CUST034,East,Bhubaneswar,Headphones,Accessories,6.0,80,0.05
+ORD0165,2025-03-22,CUST023,North,Chandigarh,Headphones,Accessories,1.0,80,0.1
+ORD0166,2025-02-20,CUST032,East,Bhubaneswar,Headphones,Accessories,2.0,80,0.05
+ORD0167,2025-01-15,CUST075,East,Bhubaneswar,Keyboard,Accessories,2.0,45,0.05
+ORD0168,2025-04-22,CUST116,West,Ahmedabad,Headphones,Accessories,5.0,80,0.15
+ORD0169,2025-05-23,CUST026,North,Jaipur,Printer,Office Equipment,3.0,180,0.0
+ORD0170,2025-12-10,CUST037,South,Hyderabad,Monitor,Electronics,4.0,220,0.0
+ORD0171,2025-11-18,CUST034,East,Bhubaneswar,Keyboard,Accessories,4.0,45,0.0
+ORD0172,2025-03-19,CUST068,West,Mumbai,Headphones,Accessories,7.0,80,0.0
+ORD0173,2025-06-18,CUST007,North,Delhi,Headphones,Accessories,1.0,80,0.05
+ORD0174,2025-04-02,CUST011,East,Bhubaneswar,Mouse,Accessories,7.0,25,0.0
+ORD0175,2025-10-15,CUST117,East,Patna,Monitor,Electronics,1.0,220,0.0
+ORD0176,2025-03-21,CUST064,West,Mumbai,Keyboard,Accessories,6.0,45,0.1
+ORD0177,2025-01-08,CUST011,East,Kolkata,Keyboard,Accessories,4.0,45,0.05
+ORD0178,2025-09-17,CUST111,East,Bhubaneswar,Mouse,Accessories,3.0,25,0.05
+ORD0179,2025-03-26,CUST091,East,Kolkata,Headphones,Accessories,7.0,80,0.0
+ORD0180,2025-04-18,CUST055,West,Pune,Monitor,Electronics,5.0,220,0.0
+ORD0181,2025-08-27,CUST050,East,Bhubaneswar,Mouse,Accessories,2.0,25,0.0
+ORD0182,2025-10-04,CUST051,East,Patna,Laptop,Electronics,1.0,650,0.0
+ORD0183,2025-03-24,CUST086,East,Kolkata,Laptop,Electronics,3.0,650,0.0
+ORD0184,2025-09-07,CUST056,West,Mumbai,Laptop,Electronics,5.0,650,0.1
+ORD0185,2025-10-10,CUST007,North,Chandigarh,Headphones,Accessories,7.0,80,0.0
+ORD0186,2025-06-19,CUST057,East,Patna,Laptop,Electronics,7.0,650,0.05
+ORD0187,2025-11-22,CUST106,South,Hyderabad,Monitor,Electronics,2.0,220,0.05
+ORD0188,2025-05-30,CUST103,North,Delhi,Mouse,Accessories,1.0,25,0.05
+ORD0189,2025-10-28,CUST064,South,Chennai,Printer,Office Equipment,3.0,180,0.0
+ORD0190,2025-05-03,CUST102,South,Hyderabad,Mouse,Accessories,5.0,25,0.1
+ORD0191,2025-02-25,CUST073,West,Pune,Headphones,Accessories,3.0,80,0.15
+ORD0192,2025-08-27,CUST022,South,Bengaluru,Headphones,Accessories,1.0,80,0.05
+ORD0193,2025-08-12,CUST092,North,Delhi,Printer,Office Equipment,4.0,180,0.1
+ORD0194,2025-08-28,CUST011,West,Pune,Laptop,Electronics,5.0,650,0.0
+ORD0195,2025-04-24,CUST043,North,Chandigarh,Mouse,Accessories,1.0,25,0.1
+ORD0196,2025-01-28,CUST083,South,Hyderabad,Laptop,Electronics,6.0,650,0.0
+ORD0197,2025-11-23,CUST055,North,Delhi,Printer,Office Equipment,7.0,180,0.0
+ORD0198,2025-07-15,CUST003,North,Delhi,Monitor,Electronics,7.0,220,0.05
+ORD0199,2025-08-31,CUST009,East,Bhubaneswar,Printer,Office Equipment,3.0,180,
+ORD0200,2025-12-26,CUST039,North,Jaipur,Headphones,Accessories,7.0,80,0.0
+ORD0201,2025-04-28,CUST038,East,Kolkata,Printer,Office Equipment,1.0,180,0.05
+ORD0202,2025-06-01,CUST046,East,Patna,Mouse,Accessories,4.0,25,0.0
+ORD0203,2025-09-03,CUST096,South,Hyderabad,Mouse,Accessories,6.0,25,0.1
+ORD0204,2025-07-17,CUST067,South,Bengaluru,Headphones,Accessories,5.0,80,0.0
+ORD0205,2025-12-13,CUST047,West,Pune,Monitor,Electronics,4.0,220,0.0
+ORD0206,2025-06-26,CUST092,South,Chennai,Headphones,Accessories,1.0,80,0.05
+ORD0207,2025-09-13,CUST085,West,Ahmedabad,Laptop,Electronics,4.0,650,0.05
+ORD0208,2025-07-18,CUST046,South,Hyderabad,Keyboard,Accessories,6.0,45,0.1
+ORD0209,2025-04-01,CUST099,East,Kolkata,Printer,Office Equipment,7.0,180,0.0
+ORD0210,2025-12-21,CUST082,North,Jaipur,Mouse,Accessories,4.0,25,0.05
+ORD0211,2025-06-27,CUST033,North,Chandigarh,Monitor,Electronics,5.0,220,0.1
+ORD0212,2025-03-06,CUST065,West,Pune,Keyboard,Accessories,2.0,45,0.05
+ORD0213,2025-01-19,CUST055,East,Bhubaneswar,Mouse,Accessories,7.0,25,0.05
+ORD0214,2025-07-13,CUST058,West,Mumbai,Mouse,Accessories,2.0,25,0.15
+ORD0215,2025-12-13,CUST051,East,Bhubaneswar,Keyboard,Accessories,4.0,45,0.15
+ORD0216,2025-11-19,CUST097,North,Chandigarh,Printer,Office Equipment,6.0,180,0.0
+ORD0217,2025-10-24,CUST089,North,Delhi,Printer,Office Equipment,7.0,180,0.0
+ORD0218,2025-02-13,CUST072,East,Bhubaneswar,Laptop,Electronics,2.0,650,0.0
+ORD0219,2025-08-05,CUST034,North,Chandigarh,Printer,Office Equipment,7.0,180,0.1
+ORD0220,2025-05-30,CUST100,North,Delhi,Laptop,Electronics,5.0,650,0.0
+ORD0221,2025-11-08,CUST080,South,Bengaluru,Keyboard,Accessories,5.0,45,0.05
+ORD0222,2025-04-30,CUST110,North,Chandigarh,Headphones,Accessories,1.0,80,0.0
+ORD0223,2025-08-21,CUST051,West,Pune,Printer,Office Equipment,4.0,180,0.05
+ORD0224,2025-07-19,CUST076,West,Pune,Laptop,Electronics,4.0,650,0.05
+ORD0225,2025-04-19,CUST015,South,Chennai,Printer,Office Equipment,1.0,180,0.05
+ORD0226,2025-10-26,CUST008,North,Jaipur,Laptop,Electronics,6.0,650,0.15
+ORD0227,2025-04-28,CUST057,North,Chandigarh,Keyboard,Accessories,3.0,45,0.05
+ORD0228,2025-04-21,CUST066,North,Delhi,Laptop,Electronics,7.0,650,0.1
+ORD0229,2025-03-04,CUST107,West,Ahmedabad,Printer,Office Equipment,4.0,180,0.05
+ORD0230,2025-03-31,CUST109,East,Bhubaneswar,Headphones,Accessories,1.0,80,0.15
+ORD0231,2025-08-05,CUST041,North,Jaipur,Monitor,Electronics,7.0,220,0.15
+ORD0232,2025-04-04,CUST091,South,Bengaluru,Keyboard,Accessories,7.0,45,0.15
+ORD0233,2025-09-25,CUST088,West,Ahmedabad,Headphones,Accessories,3.0,80,0.1
+ORD0234,2025-07-28,CUST070,North,Jaipur,Laptop,Electronics,1.0,650,0.05
+ORD0235,2025-05-15,CUST025,South,Chennai,Mouse,Accessories,3.0,25,0.05
+ORD0236,2025-11-22,CUST113,East,Kolkata,Keyboard,Accessories,2.0,45,0.05
+ORD0237,2025-05-20,CUST025,South,Chennai,Mouse,Accessories,1.0,25,0.05
+ORD0238,2025-05-25,CUST068,South,Chennai,Mouse,Accessories,4.0,25,0.0
+ORD0239,2025-03-28,CUST009,South,Hyderabad,Printer,Office Equipment,6.0,180,0.1
+ORD0240,2025-01-22,CUST036,North,Jaipur,Headphones,Accessories,5.0,80,0.05
+ORD0241,2025-06-12,CUST003,North,Chandigarh,Mouse,Accessories,4.0,25,0.05
+ORD0242,2025-03-18,CUST114,South,Chennai,Laptop,Electronics,6.0,650,0.05
+ORD0243,2025-12-22,CUST041,South,Bengaluru,Printer,Office Equipment,4.0,180,0.0
+ORD0244,2025-04-07,CUST029,South,Hyderabad,Mouse,Accessories,7.0,25,0.15
+ORD0245,2025-10-05,CUST008,North,Chandigarh,Headphones,Accessories,3.0,80,0.15
+ORD0246,2025-07-14,CUST078,North,Delhi,Printer,Office Equipment,5.0,180,0.1
+ORD0247,2025-02-08,CUST001,South,Hyderabad,Printer,Office Equipment,5.0,180,0.0
+ORD0248,2025-02-03,CUST003,South,Chennai,Monitor,Electronics,2.0,220,0.1
+ORD0249,2025-06-09,CUST040,South,Hyderabad,Headphones,Accessories,6.0,80,0.05
+ORD0250,2025-02-03,CUST105,West,Pune,Mouse,Accessories,2.0,25,0.05
+ORD0251,2025-10-13,CUST004,West,Mumbai,Monitor,Electronics,4.0,220,0.0
+ORD0252,2025-03-14,CUST068,North,Chandigarh,Mouse,Accessories,2.0,25,0.0
+ORD0253,2025-09-13,CUST113,South,Chennai,Printer,Office Equipment,2.0,180,0.0
+ORD0254,2025-11-22,CUST006,East,Patna,Monitor,Electronics,4.0,220,0.1
+ORD0255,2025-04-12,CUST057,East,Patna,Keyboard,Accessories,6.0,45,0.05
+ORD0256,2025-08-28,CUST079,South,Hyderabad,Laptop,Electronics,7.0,650,0.05
+ORD0257,2025-11-26,CUST049,South,Hyderabad,Mouse,Accessories,3.0,25,0.1
+ORD0258,2025-11-21,CUST106,North,Chandigarh,Printer,Office Equipment,6.0,180,0.15
+ORD0259,2025-02-01,CUST016,North,Jaipur,Headphones,Accessories,7.0,80,0.0
+ORD0260,2025-03-20,CUST060,West,Ahmedabad,Laptop,Electronics,1.0,650,0.1
+ORD0261,2025-11-06,CUST009,West,Ahmedabad,Keyboard,Accessories,3.0,45,0.05
+ORD0262,2025-09-15,CUST048,West,Ahmedabad,Monitor,Electronics,2.0,220,0.1
+ORD0263,2025-12-04,CUST077,West,Pune,Laptop,Electronics,1.0,650,0.15
+ORD0264,2025-12-31,CUST013,South,Bengaluru,Printer,Office Equipment,5.0,180,0.0
+ORD0265,2025-04-03,CUST100,East,Kolkata,Monitor,Electronics,3.0,220,0.0
+ORD0266,2025-11-15,CUST048,North,Chandigarh,Monitor,Electronics,3.0,220,0.1
+ORD0267,2025-11-01,CUST096,East,Patna,Printer,Office Equipment,6.0,180,0.05
+ORD0268,2025-02-23,CUST086,South,Chennai,Printer,Office Equipment,6.0,180,0.05
+ORD0269,2025-10-20,CUST113,South,Chennai,Laptop,Electronics,7.0,650,0.0
+ORD0270,2025-03-13,CUST057,West,Mumbai,Mouse,Accessories,2.0,25,0.0
+ORD0271,2025-10-08,CUST040,South,Chennai,Headphones,Accessories,5.0,80,0.1
+ORD0272,2025-09-03,CUST088,East,Bhubaneswar,Laptop,Electronics,1.0,650,0.05
+ORD0273,2025-09-03,CUST009,South,Hyderabad,Keyboard,Accessories,6.0,45,0.05
+ORD0274,2025-02-19,CUST031,North,Jaipur,Keyboard,Accessories,3.0,45,0.15
+ORD0275,2025-11-13,CUST025,South,Bengaluru,Printer,Office Equipment,5.0,180,0.0
+ORD0276,2025-03-15,CUST008,South,Chennai,Keyboard,Accessories,5.0,45,0.05
+ORD0277,2025-06-03,CUST102,East,Bhubaneswar,Monitor,Electronics,4.0,220,0.1
+ORD0278,2025-04-07,CUST055,West,Mumbai,Keyboard,Accessories,2.0,45,0.0
+ORD0279,2025-10-17,CUST014,North,Jaipur,Mouse,Accessories,1.0,25,0.0
+ORD0280,2025-01-04,CUST101,West,Ahmedabad,Keyboard,Accessories,6.0,45,0.0
+ORD0281,2025-11-03,CUST112,North,Chandigarh,Printer,Office Equipment,1.0,180,0.05
+ORD0282,2025-06-16,CUST108,West,Pune,Monitor,Electronics,5.0,220,0.0
+ORD0283,2025-09-04,CUST076,East,Patna,Keyboard,Accessories,6.0,45,0.1
+ORD0284,2025-09-09,CUST120,North,Delhi,Mouse,Accessories,7.0,25,0.0
+ORD0285,2025-05-08,CUST078,North,Chandigarh,Keyboard,Accessories,5.0,45,0.0
+ORD0286,2025-04-05,CUST027,West,Ahmedabad,Printer,Office Equipment,1.0,180,0.1
+ORD0287,2025-12-14,CUST054,South,Bengaluru,Keyboard,Accessories,1.0,45,0.0
+ORD0288,2025-06-05,CUST069,East,Patna,Keyboard,Accessories,4.0,45,0.05
+ORD0289,2025-10-05,CUST106,East,Bhubaneswar,Laptop,Electronics,7.0,650,0.05
+ORD0290,2025-11-29,CUST117,West,Ahmedabad,Mouse,Accessories,6.0,25,0.0
+ORD0291,2025-03-22,CUST084,North,Chandigarh,Mouse,Accessories,5.0,25,0.15
+ORD0292,2025-10-19,CUST102,North,Jaipur,Laptop,Electronics,6.0,650,0.05
+ORD0293,2025-06-07,CUST038,West,Mumbai,Laptop,Electronics,4.0,650,0.0
+ORD0294,2025-06-21,CUST021,South,Hyderabad,Monitor,Electronics,2.0,220,0.0
+ORD0295,2025-02-25,CUST085,East,Kolkata,Monitor,Electronics,3.0,220,0.05
+ORD0296,2025-05-12,CUST015,West,Ahmedabad,Laptop,Electronics,5.0,650,0.1
+ORD0297,2025-10-02,CUST105,South,Bengaluru,Headphones,Accessories,1.0,80,0.0
+ORD0298,2025-05-17,CUST070,West,Pune,Monitor,Electronics,7.0,220,0.05
+ORD0299,2025-11-24,CUST108,West,Pune,Printer,Office Equipment,7.0,180,0.0
+ORD0300,2025-05-10,CUST092,East,Kolkata,Laptop,Electronics,4.0,650,0.1
+ORD0301,2025-09-06,CUST015,South,Bengaluru,Monitor,Electronics,1.0,220,0.0
+ORD0302,2025-11-02,CUST062,North,Pune  ,Mouse,Accessories,7.0,25,0.05
+ORD0303,2025-10-18,CUST016,East,Bhubaneswar,Headphones,Accessories,7.0,80,0.05
+ORD0304,2025-02-28,CUST079,West,Pune,Laptop,Electronics,3.0,650,0.1
+ORD0305,2025-08-27,CUST075,East,Patna,Laptop,Electronics,5.0,650,0.1
+ORD0306,2025-12-02,CUST063,North,Chandigarh,Mouse,Accessories,2.0,25,0.1
+ORD0307,2025-03-02,CUST016,West,Ahmedabad,Headphones,Accessories,3.0,80,0.05
+ORD0308,2025-04-23,CUST038,West,Ahmedabad,Printer,Office Equipment,6.0,180,0.1
+ORD0309,2025-01-07,CUST017,North,Delhi,Laptop,Electronics,1.0,650,0.05
+ORD0310,2025-11-17,CUST066,West,Pune,Headphones,Accessories,4.0,80,0.15
+ORD0311,2025-09-26,CUST105,North,Delhi,Keyboard,Accessories,5.0,45,0.1
+ORD0312,2025-10-17,CUST099,South,Chennai,Printer,Office Equipment,6.0,180,0.1
+ORD0313,2025-02-25,CUST094,West,Pune,Headphones,Accessories,7.0,80,0.1
+ORD0314,2025-07-28,CUST094,North,Chandigarh,Keyboard,Accessories,1.0,45,0.0
+ORD0315,2025-04-04,CUST081,North,Chandigarh,Keyboard,Accessories,7.0,45,0.15
+ORD0316,2025-11-15,CUST070,East,Patna,Headphones,Accessories,4.0,80,0.05
+ORD0317,2025-10-26,CUST117,North,Chandigarh,Printer,Office Equipment,1.0,180,0.15
+ORD0318,2025-10-08,CUST103,North,Jaipur,Mouse,Accessories,1.0,25,0.0
+ORD0319,2025-06-06,CUST119,South,Bengaluru,Printer,Office Equipment,1.0,180,0.0
+ORD0320,2025-09-10,CUST023,North,Jaipur,Keyboard,Accessories,6.0,45,0.0
+ORD0321,2025-10-11,CUST024,South,Chennai,Printer,Office Equipment,1.0,180,0.05
+ORD0322,2025-09-09,CUST022,West,Mumbai,Printer,Office Equipment,2.0,180,0.1
+ORD0323,2025-10-15,CUST074,West,Pune,Printer,Office Equipment,2.0,180,0.0
+ORD0324,2025-04-05,CUST063,South,Chennai,Mouse,Accessories,5.0,25,0.0
+ORD0325,2025-05-27,CUST079,North,Chandigarh,Headphones,Accessories,1.0,80,0.1
+ORD0326,2025-09-04,CUST088,South,Hyderabad,Printer,Office Equipment,5.0,180,0.1
+ORD0327,2025-05-29,CUST073,West,Pune,Keyboard,Accessories,1.0,45,0.1
+ORD0328,2025-10-11,CUST096,South,Bengaluru,Monitor,Electronics,3.0,220,0.15
+ORD0329,2025-01-08,CUST015,North,Delhi,Mouse,Accessories,5.0,25,0.0
+ORD0330,2025-04-22,CUST003,West,Ahmedabad,Headphones,Accessories,1.0,80,0.1
+ORD0331,2025-06-14,CUST119,West,Pune,Keyboard,Accessories,1.0,45,0.1
+ORD0332,2025-06-21,CUST094,East,Patna,Keyboard,Accessories,3.0,45,0.1
+ORD0333,2025-03-06,CUST105,East,Kolkata,Keyboard,Accessories,5.0,45,0.1
+ORD0334,2025-03-09,CUST099,North,Jaipur,Headphones,Accessories,2.0,80,0.0
+ORD0335,2025-05-28,CUST036,South,Hyderabad,Mouse,Accessories,3.0,25,0.1
+ORD0336,2025-04-21,CUST056,North,Chandigarh,Monitor,Electronics,3.0,220,0.0
+ORD0337,2025-09-24,CUST062,South,Chennai,Mouse,Accessories,5.0,25,0.05
+ORD0338,2025-12-09,CUST090,East,Bhubaneswar,Keyboard,Accessories,1.0,45,0.1
+ORD0339,2025-06-16,CUST008,West,Ahmedabad,Printer,Office Equipment,4.0,180,0.1
+ORD0340,2025-01-15,CUST110,East,Bhubaneswar,Printer,Office Equipment,1.0,180,0.0
+ORD0341,2025-02-19,CUST031,West,Ahmedabad,Keyboard,Accessories,4.0,45,0.05
+ORD0342,2025-03-24,CUST046,North,Chandigarh,Laptop,Electronics,3.0,650,0.0
+ORD0343,2025-07-02,CUST002,North,Chandigarh,Printer,Office Equipment,6.0,180,0.1
+ORD0344,2025-01-27,CUST064,West,Ahmedabad,Laptop,Electronics,4.0,650,0.0
+ORD0345,2025-10-19,CUST080,East,Kolkata,Mouse,Accessories,6.0,25,0.0
+ORD0346,2025-10-22,CUST103,North,Chandigarh,Mouse,Accessories,5.0,25,0.0
+ORD0347,2025-03-19,CUST064,South,Chennai,Printer,Office Equipment,6.0,180,0.1
+ORD0348,2025-05-19,CUST100,South,Hyderabad,Mouse,Accessories,1.0,25,0.0
+ORD0349,2025-06-27,CUST075,East,Patna,Headphones,Accessories,1.0,80,0.05
+ORD0350,2025-04-25,CUST061,West,Mumbai,Monitor,Electronics,4.0,220,0.15
+ORD0351,2025-01-09,CUST067,South,Hyderabad,Keyboard,Accessories,3.0,45,0.1
+ORD0352,2025-06-26,CUST002,East,Bhubaneswar,Laptop,Electronics,4.0,650,0.05
+ORD0353,2025-09-23,CUST099,East,Bhubaneswar,Headphones,Accessories,5.0,80,0.1
+ORD0354,2025-12-31,CUST059,West,Pune,Mouse,Accessories,4.0,25,0.1
+ORD0355,2025-11-07,CUST102,East,Kolkata,Mouse,Accessories,6.0,25,0.0
+ORD0356,2025-08-03,CUST094,West,Mumbai,Headphones,Accessories,7.0,80,0.0
+ORD0357,2025-01-15,CUST103,East,Bhubaneswar,Keyboard,Accessories,3.0,45,0.0
+ORD0358,2025-03-28,CUST065,East,Patna,Laptop,Electronics,1.0,650,0.0
+ORD0359,2025-10-19,CUST057,North,Delhi,Monitor,Electronics,5.0,220,0.1
+ORD0360,2025-04-19,CUST090,North,Jaipur,Printer,Office Equipment,3.0,180,0.0
+ORD0361,2025-07-30,CUST028,North,Jaipur,Printer,Office Equipment,7.0,180,0.0
+ORD0362,2025-01-21,CUST093,North,Jaipur,Mouse,Accessories,3.0,25,0.1
+ORD0363,2025-04-16,CUST008,West,Ahmedabad,Monitor,Electronics,5.0,220,0.1
+ORD0364,2025-12-20,CUST106,West,Ahmedabad,Printer,Office Equipment,7.0,180,0.05
+ORD0365,2025-03-13,CUST072,North,Delhi,Laptop,Electronics,2.0,650,0.05
+ORD0366,2025-06-19,CUST037,South,Hyderabad,Headphones,Accessories,6.0,80,0.1
+ORD0367,2025-10-09,CUST075,West,Pune,Monitor,Electronics,3.0,220,0.1
+ORD0368,2025-02-19,CUST012,West,Pune,Headphones,Accessories,3.0,80,0.15
+ORD0369,2025-06-20,CUST095,West,Mumbai,Headphones,Accessories,2.0,80,0.1
+ORD0370,2025-08-01,CUST049,North,Chandigarh,Laptop,Electronics,2.0,650,0.0
+ORD0371,2025-07-03,CUST099,West,Mumbai,Keyboard,Accessories,3.0,45,0.1
+ORD0372,2025-10-01,CUST054,East,Patna,Headphones,Accessories,5.0,80,0.0
+ORD0373,2025-09-11,CUST088,East,Patna,Mouse,Accessories,5.0,25,0.05
+ORD0374,2025-11-26,CUST002,North,Delhi,Printer,Office Equipment,6.0,180,0.0
+ORD0375,2025-03-09,CUST040,West,Pune,Monitor,Electronics,4.0,220,0.1
+ORD0376,2025-09-03,CUST045,North,Chandigarh,Mouse,Accessories,5.0,25,0.1
+ORD0377,2025-10-12,CUST068,East,Bhubaneswar,Headphones,Accessories,2.0,80,0.0
+ORD0378,2025-01-25,CUST090,West,Mumbai,Printer,Office Equipment,6.0,180,0.1
+ORD0379,2025-08-25,CUST076,West,Ahmedabad,Printer,Office Equipment,4.0,180,0.0
+ORD0380,2025-09-29,CUST017,West,Ahmedabad,Printer,Office Equipment,5.0,180,0.1
+ORD0381,2025-06-15,CUST041,West,Ahmedabad,Keyboard,Accessories,2.0,45,0.1
+ORD0382,2025-05-20,CUST088,West,Ahmedabad,Keyboard,Accessories,1.0,45,0.1
+ORD0383,2025-07-18,CUST064,West,Mumbai,Mouse,Accessories,6.0,25,0.05
+ORD0384,2025-08-02,CUST040,South,Hyderabad,Keyboard,Accessories,5.0,45,0.05
+ORD0385,2025-07-05,CUST054,East,Kolkata,Mouse,Accessories,1.0,25,0.05
+ORD0386,2025-06-13,CUST071,West,Mumbai,Headphones,Accessories,6.0,80,0.05
+ORD0387,2025-11-10,CUST115,South,Chennai,Laptop,Electronics,6.0,650,0.05
+ORD0388,2025-03-24,CUST052,West,Ahmedabad,Laptop,Electronics,7.0,650,0.05
+ORD0389,2025-01-03,CUST023,West,Mumbai,Monitor,Electronics,2.0,220,0.1
+ORD0390,2025-03-19,CUST032,South,Hyderabad,Laptop,Electronics,5.0,650,0.15
+ORD0391,2025-09-25,CUST096,South,Chennai,Keyboard,Accessories,7.0,45,0.1
+ORD0392,2025-08-07,CUST021,South,Hyderabad,Monitor,Electronics,4.0,220,0.0
+ORD0393,2025-06-13,CUST074,East,Bhubaneswar,Keyboard,Accessories,7.0,45,0.05
+ORD0394,2025-04-23,CUST083,East,Kolkata,Monitor,Electronics,7.0,220,0.1
+ORD0395,2025-04-12,CUST078,West,Ahmedabad,Keyboard,Accessories,3.0,45,0.1
+ORD0396,2025-10-21,CUST035,North,Delhi,Monitor,Electronics,7.0,220,0.0
+ORD0397,2025-12-14,CUST062,West,Mumbai,Headphones,Accessories,1.0,80,0.0
+ORD0398,2025-05-10,CUST055,South,Hyderabad,Laptop,Electronics,3.0,650,0.1
+ORD0399,2025-01-28,CUST017,West,Mumbai,Keyboard,Accessories,6.0,45,0.1
+ORD0400,2025-11-24,CUST094,North,Chandigarh,Headphones,Accessories,6.0,80,0.0
+ORD0401,2025-06-16,CUST061,East,Patna,Monitor,Electronics,6.0,220,0.05
+ORD0402,2025-01-31,CUST108,North,Chandigarh,Mouse,Accessories,5.0,25,0.0
+ORD0403,2025-11-11,CUST001,West,Mumbai,Printer,Office Equipment,3.0,180,0.1
+ORD0404,2025-02-10,CUST044,North,Chandigarh,Printer,Office Equipment,2.0,180,0.0
+ORD0405,2025-03-23,CUST080,West,Pune,Laptop,Electronics,7.0,650,0.0
+ORD0406,2025-12-28,CUST003,South,Bengaluru,Printer,Office Equipment,7.0,180,0.1
+ORD0407,2025-09-13,CUST071,East,Patna,Headphones,Accessories,3.0,80,0.05
+ORD0408,2025-01-28,CUST028,South,Bengaluru,Headphones,Accessories,4.0,80,0.1
+ORD0409,2025-11-11,CUST089,North,Jaipur,Monitor,Electronics,3.0,220,0.0
+ORD0410,2025-10-02,CUST067,West,Mumbai,Monitor,Electronics,4.0,220,0.0
+ORD0411,2025-01-23,CUST103,South,Chennai,Keyboard,Accessories,4.0,45,0.1
+ORD0412,2025-07-05,CUST043,East,Bhubaneswar,Keyboard,Accessories,2.0,45,0.15
+ORD0413,2025-12-07,CUST112,North,Delhi,Mouse,Accessories,6.0,25,0.05
+ORD0414,2025-08-27,CUST079,West,Mumbai,Monitor,Electronics,3.0,220,0.0
+ORD0415,2025-02-27,CUST056,South,Hyderabad,Keyboard,Accessories,3.0,45,0.05
+ORD0416,2025-03-21,CUST120,South,Bengaluru,Keyboard,Accessories,4.0,45,0.05
+ORD0417,2025-05-29,CUST094,West,Mumbai,Laptop,Electronics,5.0,650,0.15
+ORD0418,2025-02-17,CUST008,West,Ahmedabad,Printer,Office Equipment,6.0,180,0.1
+ORD0419,2025-11-23,CUST034,West,Mumbai,Printer,Office Equipment,6.0,180,0.0
+ORD0420,2025-08-10,CUST063,East,Patna,Mouse,Accessories,2.0,25,0.0
+ORD0421,2025-07-08,CUST031,North,Chandigarh,Keyboard,Accessories,3.0,45,0.05
+ORD0422,2025-10-23,CUST002,North,Delhi,Monitor,Electronics,1.0,220,0.05
+ORD0423,2025-04-26,CUST045,East,Kolkata,Mouse,Accessories,4.0,25,0.0
+ORD0424,2025-09-06,CUST053,South,Hyderabad,Headphones,Accessories,3.0,80,0.05
+ORD0425,2025-09-17,CUST058,South,Hyderabad,Mouse,Accessories,4.0,25,0.15
+ORD0426,2025-03-04,CUST087,South,Hyderabad,Monitor,Electronics,4.0,220,0.05
+ORD0427,2025-04-02,CUST029,West,Ahmedabad,Mouse,Accessories,5.0,25,0.05
+ORD0428,2025-08-05,CUST059,North,Jaipur,Mouse,Accessories,3.0,25,0.0
+ORD0429,2025-10-15,CUST045,South,Chennai,Headphones,Accessories,1.0,80,0.1
+ORD0430,2025-12-05,CUST022,South,Hyderabad,Printer,Office Equipment,5.0,180,0.1
+ORD0431,2025-07-31,CUST027,West,Mumbai,Keyboard,Accessories,6.0,45,0.15
+ORD0432,2025-08-23,CUST052,West,Mumbai,Monitor,Electronics,3.0,220,0.0
+ORD0433,2025-02-24,CUST012,North,Jaipur,Headphones,Accessories,5.0,80,0.0
+ORD0434,2025-08-19,CUST092,South,Chennai,Monitor,Electronics,5.0,220,0.0
+ORD0435,2025-05-06,CUST024,North,Jaipur,Laptop,Electronics,7.0,650,0.05
+ORD0436,2025-12-21,CUST038,West,Mumbai,Laptop,Electronics,7.0,650,0.0
+ORD0437,2025-11-06,CUST066,South,Chennai,Headphones,Accessories,6.0,80,0.1
+ORD0438,2025-10-31,CUST055,West,Ahmedabad,Mouse,Accessories,7.0,25,0.05
+ORD0439,2025-07-25,CUST097,West,Pune,Monitor,Electronics,7.0,220,0.1
+ORD0440,2025-03-19,CUST048,East,Patna,Mouse,Accessories,7.0,25,0.0
+ORD0441,2025-12-15,CUST104,West,Pune,Printer,Office Equipment,1.0,180,0.05
+ORD0442,2025-01-29,CUST103,North,Jaipur,Printer,Office Equipment,3.0,180,0.0
+ORD0443,2025-12-22,CUST051,East,Kolkata,Monitor,Electronics,3.0,220,0.05
+ORD0444,2025-04-26,CUST048,South,Bengaluru,Monitor,Electronics,2.0,220,0.0
+ORD0445,2025-12-11,CUST087,South,Hyderabad,Laptop,Electronics,5.0,650,0.15
+ORD0446,2025-11-03,CUST063,East,Kolkata,Keyboard,Accessories,1.0,45,0.0
+ORD0447,2025-12-10,CUST039,North,Delhi,Headphones,Accessories,3.0,80,0.15
+ORD0448,2025-06-12,CUST012,East,Kolkata,Printer,Office Equipment,5.0,180,0.1
+ORD0449,2025-08-11,CUST006,East,Bhubaneswar,Monitor,Electronics,7.0,220,0.15
+ORD0450,2025-11-30,CUST084,East,Kolkata,Monitor,Electronics,1.0,220,0.0
+ORD0451,2025-08-13,CUST024,East,Bhubaneswar,Monitor,Electronics,3.0,220,0.0
+ORD0452,2025-01-17,CUST063,West,Ahmedabad,Monitor,Electronics,2.0,220,0.0
+ORD0453,2025-08-01,CUST015,West,Ahmedabad,Monitor,Electronics,4.0,220,0.15
+ORD0454,2025-05-11,CUST011,South,Hyderabad,Headphones,Accessories,1.0,80,0.1
+ORD0455,2025-05-14,CUST092,East,Bhubaneswar,Monitor,Electronics,7.0,220,0.1
+ORD0456,2025-01-07,CUST067,West,Pune,Headphones,Accessories,1.0,80,0.1
+ORD0457,2025-11-12,CUST051,West,Mumbai,Keyboard,Accessories,1.0,45,0.15
+ORD0458,2025-09-20,CUST019,South,Hyderabad,Laptop,Electronics,7.0,650,0.0
+ORD0459,2025-06-30,CUST007,South,Bengaluru,Headphones,Accessories,3.0,80,0.1
+ORD0460,2025-08-25,CUST115,West,Pune,Laptop,Electronics,4.0,650,0.05
+ORD0461,2025-02-21,CUST105,East,Patna,Keyboard,Accessories,4.0,45,0.0
+ORD0462,2025-11-24,CUST040,South,Bengaluru,Headphones,Accessories,6.0,80,0.05
+ORD0463,2025-10-24,CUST053,North,Chandigarh,Mouse,Accessories,1.0,25,0.0
+ORD0464,2025-10-23,CUST046,South,Bengaluru,Mouse,Accessories,6.0,25,0.0
+ORD0465,2025-05-26,CUST036,East,Kolkata,Keyboard,Accessories,3.0,45,0.05
+ORD0466,2025-02-09,CUST055,North,Jaipur,Mouse,Accessories,2.0,25,0.15
+ORD0467,2025-09-07,CUST057,North,Jaipur,Headphones,Accessories,4.0,80,0.05
+ORD0468,2025-01-13,CUST094,East,Bhubaneswar,Keyboard,Accessories,6.0,45,0.0
+ORD0469,2025-09-18,CUST079,South,Hyderabad,Printer,Office Equipment,6.0,180,0.0
+ORD0470,2025-04-22,CUST041,East,Bhubaneswar,Headphones,Accessories,6.0,80,0.05
+ORD0471,2025-05-21,CUST108,East,Bhubaneswar,Monitor,Electronics,7.0,220,0.1
+ORD0472,2025-09-16,CUST089,South,Bengaluru,Headphones,Accessories,6.0,80,0.05
+ORD0473,2025-03-16,CUST075,North,Delhi,Keyboard,Accessories,5.0,45,0.05
+ORD0474,2025-01-16,CUST035,North,Chandigarh,Laptop,Electronics,5.0,650,0.1
+ORD0475,2025-12-11,CUST101,East,Patna,Laptop,Electronics,7.0,650,0.1
+ORD0476,2025-07-15,CUST110,North,Jaipur,Keyboard,Accessories,3.0,45,0.0
+ORD0477,2025-03-17,CUST014,North,Chandigarh,Keyboard,Accessories,2.0,45,0.05
+ORD0478,2025-02-04,CUST068,North,Chandigarh,Laptop,Electronics,6.0,650,0.05
+ORD0479,2025-03-27,CUST109,West,Pune,Keyboard,Accessories,1.0,45,0.0
+ORD0480,2025-06-25,CUST098,West,Pune,Headphones,Accessories,6.0,80,0.15
+ORD0481,2025-06-07,CUST014,North,Jaipur,Mouse,Accessories,4.0,25,0.1
+ORD0482,2025-06-11,CUST031,West,Ahmedabad,Keyboard,Accessories,4.0,45,0.05
+ORD0483,2025-12-28,CUST072,South,Chennai,Monitor,Electronics,4.0,220,0.0
+ORD0484,2025-02-08,CUST003,North,Jaipur,Printer,Office Equipment,4.0,180,0.1
+ORD0485,2025-04-28,CUST013,North,Jaipur,Laptop,Electronics,2.0,650,0.1
+ORD0486,2025-01-08,CUST088,South,Bengaluru,Monitor,Electronics,4.0,220,0.0
+ORD0487,2025-03-17,CUST072,North,Chandigarh,Mouse,Accessories,1.0,25,0.0
+ORD0488,2025-04-19,CUST072,South,Hyderabad,Mouse,Accessories,7.0,25,0.05
+ORD0489,2025-05-14,CUST106,East,Bhubaneswar,Laptop,Electronics,1.0,650,0.05
+ORD0490,2025-05-17,CUST029,West,Ahmedabad,Headphones,Accessories,1.0,80,0.05
+ORD0491,2025-06-05,CUST007,South,Bengaluru,Mouse,Accessories,1.0,25,0.1
+ORD0492,2025-12-16,CUST085,East,Bhubaneswar,Laptop,Electronics,4.0,650,0.0
+ORD0493,2025-07-26,CUST038,South,Bengaluru,Mouse,Accessories,4.0,25,0.05
+ORD0494,2025-03-31,CUST037,East,Patna,Monitor,Electronics,5.0,220,0.05
+ORD0495,2025-08-13,CUST052,South,Chennai,Monitor,Electronics,4.0,220,0.0
+ORD0496,2025-04-21,CUST036,North,Delhi,Headphones,Accessories,1.0,80,0.0
+ORD0497,2025-09-05,CUST009,South,Bengaluru,Printer,Office Equipment,2.0,180,0.1
+ORD0498,2025-01-24,CUST039,East,Patna,Keyboard,Accessories,3.0,45,0.05
+ORD0499,2025-07-20,CUST055,West,Mumbai,Printer,Office Equipment,6.0,180,0.1
+ORD0500,2025-11-22,CUST023,North,Delhi,Printer,Office Equipment,2.0,180,0.1
